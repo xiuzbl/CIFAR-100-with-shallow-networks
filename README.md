@@ -14,7 +14,7 @@
 
 6---2 senet blocks
 
-These ids are corresponding to matrices displayed under the folder of 'Matrix' and specific architectures of models under the folder of 'Model'. I also listed names of true classes and their top 4 proportion of wrong categories under the folder of 'Results'.
+These ids are corresponding to matrices displayed under the folder of 'Matrix' and specific architectures of models under the folder of 'Model'. I also listed names of true classes and their top 4 proportion of wrong categories under the folder of 'Results'. You can check the names of 100 categories in the 'Class_names'.
 
 ### Implementation:
 
