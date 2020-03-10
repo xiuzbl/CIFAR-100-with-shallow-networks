@@ -14,12 +14,12 @@
 
 6---2 senet blocks
 
-These ids are corresponding to matrixs displayed under the folder of 'Matrix' and specific architectures of models under the folder of 'Model'. I also listed names of true classes and their top 5 proportion of wrong categories under the folder of 'Results'.
+These ids are corresponding to matrices displayed under the folder of 'Matrix' and specific architectures of models under the folder of 'Model'. I also listed names of true classes and their top 5 proportion of wrong categories under the folder of 'Results'.
 
 ### Implementation:
 
 - You can download and click the 'Code.html' to see the detailed implementation.
-- Upload those matrixes use numpy.loadtxt(filename).
+- Upload those matrices use numpy.loadtxt(filename).
 
 ### Limitations:
 
