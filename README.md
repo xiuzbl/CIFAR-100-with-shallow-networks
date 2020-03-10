@@ -18,7 +18,7 @@ These ids are corresponding to matrixs displayed under the folder of 'Matrix' an
 
 ### Implementation:
 
-- You can click the 'Code.html' to see the detailed implementation.
+- You can download and click the 'Code.html' to see the detailed implementation.
 - Upload those matrixes use numpy.loadtxt(filename).
 
 ### Limitations:
