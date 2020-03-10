@@ -23,7 +23,7 @@ These ids are corresponding to matrices displayed under the folder of 'Matrix' a
 
 ### Limitations:
 
-Accuracy of those models are low.
+Models are easy to overfit and accuracy of those models are low.
 
 
 
