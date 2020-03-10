@@ -1,0 +1,202 @@
+
+ model test accuracy 31.81
+0 : true class: apple 0.74
+false classes: [('apple', 0.74), ('sweet_pepper', 0.09), ('pear', 0.08), ('bowl', 0.03), ('bicycle', 0.01)]
+1 : true class: aquarium_fish 0.3
+false classes: [('aquarium_fish', 0.3), ('snail', 0.1), ('caterpillar', 0.1), ('tulip', 0.05), ('bowl', 0.05)]
+2 : true class: baby 0.16
+false classes: [('baby', 0.16), ('girl', 0.14), ('boy', 0.09), ('snail', 0.08), ('woman', 0.07)]
+3 : true class: bear 0.13
+false classes: [('seal', 0.15), ('elephant', 0.14), ('bear', 0.13), ('snail', 0.13), ('chimpanzee', 0.09)]
+4 : true class: beaver 0.0
+false classes: [('snail', 0.27), ('otter', 0.14), ('seal', 0.1), ('bear', 0.08), ('crocodile', 0.06)]
+5 : true class: bed 0.21
+false classes: [('couch', 0.33), ('bed', 0.21), ('lamp', 0.09), ('sea', 0.05), ('road', 0.04)]
+6 : true class: bee 0.24
+false classes: [('bee', 0.24), ('snail', 0.13), ('caterpillar', 0.13), ('butterfly', 0.08), ('spider', 0.06)]
+7 : true class: beetle 0.15
+false classes: [('beetle', 0.15), ('caterpillar', 0.1), ('spider', 0.1), ('butterfly', 0.08), ('cockroach', 0.08)]
+8 : true class: bicycle 0.35
+false classes: [('bicycle', 0.35), ('crab', 0.08), ('snail', 0.06), ('lamp', 0.05), ('spider', 0.05)]
+9 : true class: bottle 0.46
+false classes: [('bottle', 0.46), ('lamp', 0.21), ('snail', 0.06), ('sweet_pepper', 0.05), ('caterpillar', 0.03)]
+10 : true class: bowl 0.33
+false classes: [('bowl', 0.33), ('lamp', 0.12), ('snail', 0.1), ('plate', 0.08), ('worm', 0.03)]
+11 : true class: boy 0.16
+false classes: [('girl', 0.25), ('woman', 0.18), ('boy', 0.16), ('snail', 0.05), ('lamp', 0.05)]
+12 : true class: bridge 0.44
+false classes: [('bridge', 0.44), ('sea', 0.12), ('whale', 0.06), ('lamp', 0.04), ('worm', 0.02)]
+13 : true class: bus 0.3
+false classes: [('bus', 0.3), ('lamp', 0.09), ('streetcar', 0.08), ('couch', 0.07), ('pickup_truck', 0.07)]
+14 : true class: butterfly 0.42
+false classes: [('butterfly', 0.42), ('caterpillar', 0.1), ('snail', 0.09), ('spider', 0.05), ('lizard', 0.03)]
+15 : true class: camel 0.15
+false classes: [('snail', 0.19), ('camel', 0.15), ('mushroom', 0.06), ('cattle', 0.06), ('elephant', 0.05)]
+16 : true class: can 0.31
+false classes: [('can', 0.31), ('lamp', 0.17), ('bottle', 0.07), ('bowl', 0.06), ('bed', 0.04)]
+17 : true class: castle 0.25
+false classes: [('castle', 0.25), ('bridge', 0.15), ('plain', 0.09), ('tank', 0.07), ('house', 0.04)]
+18 : true class: caterpillar 0.55
+false classes: [('caterpillar', 0.55), ('snail', 0.15), ('crocodile', 0.04), ('lamp', 0.03), ('pear', 0.03)]
+19 : true class: cattle 0.23
+false classes: [('cattle', 0.23), ('mushroom', 0.12), ('snail', 0.12), ('elephant', 0.06), ('skunk', 0.04)]
+20 : true class: chair 0.63
+false classes: [('chair', 0.63), ('couch', 0.11), ('lamp', 0.06), ('snail', 0.03), ('bed', 0.02)]
+21 : true class: chimpanzee 0.41
+false classes: [('chimpanzee', 0.41), ('snail', 0.15), ('seal', 0.08), ('bear', 0.06), ('lamp', 0.05)]
+22 : true class: clock 0.1
+false classes: [('lamp', 0.14), ('plate', 0.11), ('bowl', 0.11), ('clock', 0.1), ('can', 0.08)]
+23 : true class: cloud 0.23
+false classes: [('sea', 0.4), ('cloud', 0.23), ('plain', 0.13), ('shark', 0.06), ('keyboard', 0.03)]
+24 : true class: cockroach 0.47
+false classes: [('cockroach', 0.47), ('snail', 0.07), ('lamp', 0.06), ('keyboard', 0.05), ('whale', 0.05)]
+25 : true class: couch 0.4
+false classes: [('couch', 0.4), ('lamp', 0.1), ('bowl', 0.06), ('television', 0.05), ('plain', 0.05)]
+26 : true class: crab 0.26
+false classes: [('crab', 0.26), ('snail', 0.11), ('bowl', 0.09), ('seal', 0.03), ('lizard', 0.03)]
+27 : true class: crocodile 0.22
+false classes: [('crocodile', 0.22), ('snail', 0.21), ('caterpillar', 0.07), ('lizard', 0.05), ('lamp', 0.05)]
+28 : true class: cup 0.52
+false classes: [('cup', 0.52), ('lamp', 0.24), ('bowl', 0.05), ('sea', 0.03), ('plain', 0.03)]
+29 : true class: dinosaur 0.25
+false classes: [('dinosaur', 0.25), ('mushroom', 0.09), ('whale', 0.06), ('snail', 0.05), ('caterpillar', 0.05)]
+30 : true class: dolphin 0.15
+false classes: [('whale', 0.34), ('shark', 0.21), ('dolphin', 0.15), ('ray', 0.04), ('seal', 0.04)]
+31 : true class: elephant 0.4
+false classes: [('elephant', 0.4), ('mushroom', 0.07), ('snail', 0.07), ('cattle', 0.06), ('seal', 0.06)]
+32 : true class: flatfish 0.36
+false classes: [('flatfish', 0.36), ('snail', 0.13), ('woman', 0.09), ('seal', 0.05), ('girl', 0.04)]
+33 : true class: forest 0.2
+false classes: [('forest', 0.2), ('caterpillar', 0.19), ('snail', 0.09), ('willow_tree', 0.07), ('road', 0.04)]
+34 : true class: fox 0.09
+false classes: [('snail', 0.32), ('mushroom', 0.12), ('fox', 0.09), ('lamp', 0.07), ('elephant', 0.04)]
+35 : true class: girl 0.32
+false classes: [('girl', 0.32), ('woman', 0.21), ('lamp', 0.08), ('snail', 0.07), ('boy', 0.05)]
+36 : true class: hamster 0.18
+false classes: [('hamster', 0.18), ('snail', 0.1), ('mushroom', 0.09), ('lamp', 0.07), ('bowl', 0.07)]
+37 : true class: house 0.13
+false classes: [('lamp', 0.13), ('house', 0.13), ('bridge', 0.1), ('streetcar', 0.07), ('couch', 0.06)]
+38 : true class: kangaroo 0.07
+false classes: [('snail', 0.28), ('mushroom', 0.09), ('kangaroo', 0.07), ('lizard', 0.07), ('caterpillar', 0.05)]
+39 : true class: keyboard 0.52
+false classes: [('keyboard', 0.52), ('couch', 0.05), ('snail', 0.05), ('whale', 0.04), ('bridge', 0.03)]
+40 : true class: lamp 0.59
+false classes: [('lamp', 0.59), ('bowl', 0.05), ('flatfish', 0.03), ('snail', 0.03), ('sea', 0.03)]
+41 : true class: lawn_mower 0.45
+false classes: [('lawn_mower', 0.45), ('butterfly', 0.07), ('lamp', 0.05), ('snail', 0.05), ('sweet_pepper', 0.05)]
+42 : true class: leopard 0.17
+false classes: [('snail', 0.27), ('leopard', 0.17), ('seal', 0.07), ('lizard', 0.04), ('keyboard', 0.04)]
+43 : true class: lion 0.18
+false classes: [('snail', 0.26), ('lion', 0.18), ('mushroom', 0.12), ('otter', 0.05), ('lamp', 0.04)]
+44 : true class: lizard 0.16
+false classes: [('lizard', 0.16), ('snail', 0.15), ('caterpillar', 0.11), ('keyboard', 0.08), ('mushroom', 0.04)]
+45 : true class: lobster 0.11
+false classes: [('lobster', 0.11), ('snail', 0.08), ('girl', 0.06), ('lamp', 0.06), ('crab', 0.05)]
+46 : true class: man 0.11
+false classes: [('woman', 0.22), ('man', 0.11), ('flatfish', 0.09), ('girl', 0.09), ('lamp', 0.09)]
+47 : true class: maple_tree 0.22
+false classes: [('oak_tree', 0.26), ('maple_tree', 0.22), ('willow_tree', 0.14), ('pine_tree', 0.08), ('mushroom', 0.05)]
+48 : true class: motorcycle 0.32
+false classes: [('motorcycle', 0.32), ('crab', 0.07), ('bicycle', 0.06), ('boy', 0.06), ('butterfly', 0.06)]
+49 : true class: mountain 0.23
+false classes: [('mountain', 0.23), ('plain', 0.16), ('sea', 0.13), ('whale', 0.11), ('road', 0.06)]
+50 : true class: mouse 0.07
+false classes: [('snail', 0.24), ('lamp', 0.08), ('mouse', 0.07), ('couch', 0.05), ('otter', 0.04)]
+51 : true class: mushroom 0.34
+false classes: [('mushroom', 0.34), ('snail', 0.16), ('lamp', 0.13), ('caterpillar', 0.11), ('snake', 0.03)]
+52 : true class: oak_tree 0.7
+false classes: [('oak_tree', 0.7), ('pine_tree', 0.12), ('willow_tree', 0.11), ('seal', 0.02), ('maple_tree', 0.01)]
+53 : true class: orange 0.5
+false classes: [('orange', 0.5), ('apple', 0.11), ('pear', 0.07), ('bowl', 0.06), ('sweet_pepper', 0.05)]
+54 : true class: orchid 0.48
+false classes: [('orchid', 0.48), ('lamp', 0.06), ('rose', 0.05), ('keyboard', 0.05), ('tulip', 0.05)]
+55 : true class: otter 0.17
+false classes: [('snail', 0.26), ('otter', 0.17), ('seal', 0.09), ('mushroom', 0.05), ('whale', 0.04)]
+56 : true class: palm_tree 0.6
+false classes: [('palm_tree', 0.6), ('lamp', 0.09), ('willow_tree', 0.05), ('caterpillar', 0.04), ('whale', 0.03)]
+57 : true class: pear 0.4
+false classes: [('pear', 0.4), ('apple', 0.11), ('snail', 0.08), ('sweet_pepper', 0.06), ('lamp', 0.06)]
+58 : true class: pickup_truck 0.34
+false classes: [('pickup_truck', 0.34), ('lamp', 0.1), ('couch', 0.1), ('boy', 0.07), ('bus', 0.06)]
+59 : true class: pine_tree 0.22
+false classes: [('pine_tree', 0.22), ('oak_tree', 0.19), ('willow_tree', 0.16), ('palm_tree', 0.12), ('whale', 0.05)]
+60 : true class: plain 0.8
+false classes: [('plain', 0.8), ('sea', 0.14), ('road', 0.02), ('lamp', 0.01), ('forest', 0.01)]
+61 : true class: plate 0.38
+false classes: [('plate', 0.38), ('bowl', 0.2), ('keyboard', 0.05), ('snail', 0.04), ('lamp', 0.04)]
+62 : true class: poppy 0.2
+false classes: [('tulip', 0.24), ('poppy', 0.2), ('rose', 0.17), ('orchid', 0.09), ('orange', 0.08)]
+63 : true class: porcupine 0.17
+false classes: [('snail', 0.33), ('porcupine', 0.17), ('seal', 0.08), ('elephant', 0.04), ('lizard', 0.03)]
+64 : true class: possum 0.08
+false classes: [('snail', 0.19), ('seal', 0.12), ('possum', 0.08), ('skunk', 0.08), ('mushroom', 0.05)]
+65 : true class: rabbit 0.07
+false classes: [('snail', 0.26), ('lamp', 0.09), ('rabbit', 0.07), ('caterpillar', 0.05), ('couch', 0.04)]
+66 : true class: raccoon 0.28
+false classes: [('raccoon', 0.28), ('skunk', 0.14), ('snail', 0.1), ('lamp', 0.05), ('otter', 0.05)]
+67 : true class: ray 0.16
+false classes: [('shark', 0.22), ('ray', 0.16), ('whale', 0.09), ('snail', 0.08), ('mushroom', 0.05)]
+68 : true class: road 0.56
+false classes: [('road', 0.56), ('plain', 0.14), ('couch', 0.05), ('sea', 0.04), ('snail', 0.03)]
+69 : true class: rocket 0.38
+false classes: [('rocket', 0.38), ('lamp', 0.3), ('sea', 0.08), ('whale', 0.06), ('skunk', 0.03)]
+70 : true class: rose 0.56
+false classes: [('rose', 0.56), ('tulip', 0.07), ('orchid', 0.05), ('sweet_pepper', 0.04), ('lamp', 0.04)]
+71 : true class: sea 0.7
+false classes: [('sea', 0.7), ('plain', 0.14), ('whale', 0.07), ('road', 0.02), ('lamp', 0.02)]
+72 : true class: seal 0.19
+false classes: [('seal', 0.19), ('snail', 0.16), ('otter', 0.11), ('whale', 0.08), ('skunk', 0.05)]
+73 : true class: shark 0.48
+false classes: [('shark', 0.48), ('whale', 0.14), ('ray', 0.08), ('sea', 0.04), ('lamp', 0.04)]
+74 : true class: shrew 0.09
+false classes: [('snail', 0.37), ('shrew', 0.09), ('skunk', 0.06), ('seal', 0.04), ('lizard', 0.03)]
+75 : true class: skunk 0.69
+false classes: [('skunk', 0.69), ('snail', 0.06), ('mushroom', 0.04), ('lizard', 0.03), ('crab', 0.02)]
+76 : true class: skyscraper 0.41
+false classes: [('skyscraper', 0.41), ('lamp', 0.08), ('sea', 0.06), ('whale', 0.05), ('seal', 0.04)]
+77 : true class: snail 0.76
+false classes: [('snail', 0.76), ('lizard', 0.02), ('lamp', 0.02), ('caterpillar', 0.02), ('snake', 0.02)]
+78 : true class: snake 0.13
+false classes: [('snail', 0.2), ('snake', 0.13), ('caterpillar', 0.08), ('lamp', 0.05), ('lizard', 0.04)]
+79 : true class: spider 0.41
+false classes: [('spider', 0.41), ('snail', 0.18), ('caterpillar', 0.1), ('butterfly', 0.06), ('lamp', 0.04)]
+80 : true class: squirrel 0.06
+false classes: [('snail', 0.43), ('mushroom', 0.09), ('squirrel', 0.06), ('seal', 0.05), ('otter', 0.05)]
+81 : true class: streetcar 0.3
+false classes: [('streetcar', 0.3), ('bus', 0.12), ('lamp', 0.1), ('bridge', 0.08), ('train', 0.04)]
+82 : true class: sunflower 0.49
+false classes: [('sunflower', 0.49), ('sweet_pepper', 0.08), ('mushroom', 0.07), ('tulip', 0.06), ('caterpillar', 0.04)]
+83 : true class: sweet_pepper 0.42
+false classes: [('sweet_pepper', 0.42), ('rose', 0.07), ('pear', 0.07), ('tulip', 0.06), ('apple', 0.06)]
+84 : true class: table 0.14
+false classes: [('lamp', 0.23), ('couch', 0.15), ('table', 0.14), ('snail', 0.06), ('television', 0.05)]
+85 : true class: tank 0.47
+false classes: [('tank', 0.47), ('couch', 0.09), ('snail', 0.08), ('skunk', 0.05), ('lamp', 0.03)]
+86 : true class: telephone 0.31
+false classes: [('telephone', 0.31), ('lamp', 0.22), ('television', 0.07), ('couch', 0.05), ('keyboard', 0.03)]
+87 : true class: television 0.4
+false classes: [('television', 0.4), ('lamp', 0.18), ('couch', 0.06), ('girl', 0.05), ('sea', 0.03)]
+88 : true class: tiger 0.13
+false classes: [('snail', 0.26), ('tiger', 0.13), ('butterfly', 0.08), ('lion', 0.05), ('bowl', 0.04)]
+89 : true class: tractor 0.1
+false classes: [('snail', 0.18), ('tractor', 0.1), ('bridge', 0.06), ('caterpillar', 0.05), ('couch', 0.05)]
+90 : true class: train 0.18
+false classes: [('train', 0.18), ('snail', 0.12), ('caterpillar', 0.07), ('couch', 0.05), ('lamp', 0.05)]
+91 : true class: trout 0.35
+false classes: [('trout', 0.35), ('couch', 0.08), ('snail', 0.08), ('lamp', 0.06), ('lizard', 0.04)]
+92 : true class: tulip 0.33
+false classes: [('tulip', 0.33), ('rose', 0.14), ('orchid', 0.13), ('sweet_pepper', 0.08), ('snail', 0.05)]
+93 : true class: turtle 0.12
+false classes: [('snail', 0.15), ('shark', 0.13), ('turtle', 0.12), ('seal', 0.07), ('flatfish', 0.05)]
+94 : true class: wardrobe 0.61
+false classes: [('wardrobe', 0.61), ('bottle', 0.08), ('lamp', 0.08), ('television', 0.06), ('table', 0.03)]
+95 : true class: whale 0.54
+false classes: [('whale', 0.54), ('shark', 0.16), ('lamp', 0.04), ('dolphin', 0.03), ('seal', 0.02)]
+96 : true class: willow_tree 0.35
+false classes: [('willow_tree', 0.35), ('oak_tree', 0.17), ('caterpillar', 0.13), ('palm_tree', 0.06), ('plain', 0.04)]
+97 : true class: wolf 0.18
+false classes: [('wolf', 0.18), ('snail', 0.14), ('mushroom', 0.09), ('keyboard', 0.07), ('crocodile', 0.05)]
+98 : true class: woman 0.32
+false classes: [('woman', 0.32), ('lamp', 0.13), ('girl', 0.12), ('man', 0.08), ('bottle', 0.03)]
+99 : true class: worm 0.36
+false classes: [('worm', 0.36), ('lamp', 0.1), ('bowl', 0.06), ('keyboard', 0.05), ('snail', 0.05)]
